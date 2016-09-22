@@ -40,7 +40,9 @@ function createTemplate(data)
 var htmltemplate=`
 <html>
 <head>
-    <title> ${title}</title>
+    <title> 
+    ${title}
+    </title>
     <meta name='vimport' content="width-device-width, init[0]-scale-1"/>
 <link href="/ui/style.css" rel="stylesheet" />
 
